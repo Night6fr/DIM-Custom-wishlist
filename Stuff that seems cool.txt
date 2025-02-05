@@ -193,6 +193,15 @@ dimwishlist:item=2584830733&perks=3017780555,4293542123
 dimwishlist:item=2584830733&perks=3523296417,4293542123
 
 
+// Scintillation ()
+dimwishlist:item=2591257541&perks=968510818,1427256713
+
+
+// Scintillation ()
+dimwishlist:item=2591257541&perks=3418782618,3078487919
+dimwishlist:item=2591257541&perks=3300816228,3078487919
+
+
 // Chroma Rush (pve)
 //notes: tags:pve
 dimwishlist:item=2598420927&perks=1820235745,3891536761
